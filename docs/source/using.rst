@@ -1,6 +1,6 @@
-Using PyMFE
-###########
-Extracting metafeatures with PyMFE is easy.                                     
+Using `pymfe`
+#############
+Extracting metafeatures with `pymfe` is easy.                                     
  
 The simplest way to extract meta-features is by instantiating the `MFE` class.
 It computes five meta-features groups by default using mean and standard
