@@ -1,4 +1,4 @@
 Miscellaneous Examples
 ----------------------
 
-Miscellaneous examples for the pymfe package.
+Miscellaneous examples of the `pymfe` package.
