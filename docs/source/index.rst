@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to `pymfe`'s documentation!
+Welcome to `pymfe` 's documentation!
 ===================================
 
 .. toctree::
@@ -61,11 +61,11 @@ section how `pymfe` works, patter, tips, and more.
 
 
 `What's new ? <new.html>`_
-------------------------------
+--------------------------
 Log of the `pymfe` history.
 
 
-`About `pymfe` <about.html>`_
---------------------------------------
+`About us <about.html>`_
+------------------------
 If you would like to know more about this project, how to cite it, and the
 contributors, see this section.
